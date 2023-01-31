@@ -1,0 +1,19 @@
+LOGGING INTO SQL database:
+
+$ mysql -u pi -p - h localhost
+
+password: enerJock9!7
+
+> SHOW DATABASES; 
+
+>USE env_data;
+
+>SHOW tables;
+
+>SELECT * FROM senseHat;
+
+
+CHANGING CRON JOBS
+
+$ crontab -e
+
