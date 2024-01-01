@@ -2,7 +2,7 @@ LOGGING INTO SQL database:
 
 $ mysql -u pi -p - h localhost
 
-password: enerJock9!7
+password: ********
 
 > SHOW DATABASES; 
 
