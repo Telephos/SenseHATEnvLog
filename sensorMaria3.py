@@ -24,7 +24,7 @@ dateTime = datetime.datetime.now()
 try:
     connection = database.connect(
         user="pi",
-        password="enerJock9!7",
+        password="*********",
         host="localhost",
         database="env_data")
 except mariadb.Error as e:
